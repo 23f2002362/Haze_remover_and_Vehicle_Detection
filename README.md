@@ -8,11 +8,13 @@ through the haze and provide early warnings. While advanced sensors like radar a
 penetrate fog, their high cost prohibits widespread adoption in consumer vehicles. Therefore,
 developing an affordable, vision-only system that can reliably function in these conditions is a
 paramount challenge in automotive safety.
+<img width="1200" height="737" alt="image" src="https://github.com/user-attachments/assets/2abea810-5008-4010-a962-98f340ed8856" />
 
-![2016_11$largeimg06_Sunday_2016_231552555](https://github.com/user-attachments/assets/4c6c348c-1a15-4666-bab3-e4391924bdc9)
+
 <img width="190" height="117" alt="image" src="https://github.com/user-attachments/assets/4b4be299-2cc4-474f-be53-7f4216a25f17" />
+
 Figure 1 - (a) 6 killed, 51 hurt in mishaps due to smog - The Tribune
-(b) Dense fog in North India hits air, rail traffic; causes road accidents - Rediff.com
+(b) Vehicles Collide On Delhi-Lucknow National Highway Amid Dense Fog - NDTV News
 
 ## Proposed solution
 We propose a hybrid computer vision pipeline that tackles the challenge in two sequential steps. The
@@ -28,17 +30,23 @@ like
 <img width="262" height="148" alt="image" src="https://github.com/user-attachments/assets/b2d8b847-f553-4328-97b0-6b3c1730106f" />
 
 ### Step-1 Calculation of Transmission Map
+
 <img width="203" height="132" alt="image" src="https://github.com/user-attachments/assets/1795c88f-156a-4fdf-8150-b4b45324c70c" />
 
 ### Step-2 Calculation of Dark Channel Prior  
+
 <img width="204" height="132" alt="image" src="https://github.com/user-attachments/assets/2c727a4b-3405-47ad-bc07-d6ac1e4fac86" />
      
-### Step-3 Calculation of Estimate Transmission    
+### Step-3 Calculation of Estimate Transmission   
+
 <img width="204" height="132" alt="image" src="https://github.com/user-attachments/assets/b204dfda-8e07-4a24-94c6-e0d0a13d3805" />
 
 ### | To achieve |
+
 <img width="182" height="114" alt="image" src="https://github.com/user-attachments/assets/82015ebd-8b00-4f40-a5c7-fb76c668cb6d" />
+
 ### Heat Map
+
 <img width="111" height="72" alt="image" src="https://github.com/user-attachments/assets/d85bda41-40a0-4c7e-ac33-b44935a9b283" />
 
 
