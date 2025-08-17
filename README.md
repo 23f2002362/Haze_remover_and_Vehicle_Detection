@@ -10,7 +10,7 @@ developing an affordable, vision-only system that can reliably function in these
 paramount challenge in automotive safety.
 
 ![2016_11$largeimg06_Sunday_2016_231552555](https://github.com/user-attachments/assets/4c6c348c-1a15-4666-bab3-e4391924bdc9)
-<img width="1907" height="1174" alt="image" src="https://github.com/user-attachments/assets/4b4be299-2cc4-474f-be53-7f4216a25f17" />
+<img width="190" height="117" alt="image" src="https://github.com/user-attachments/assets/4b4be299-2cc4-474f-be53-7f4216a25f17" />
 Figure 1 - (a) 6 killed, 51 hurt in mishaps due to smog - The Tribune
 (b) Dense fog in North India hits air, rail traffic; causes road accidents - Rediff.com
 
@@ -25,21 +25,21 @@ and their orientation, enabling an alarm system to alert the driver to potential
 ## Dark Channel Prior - Dehazing algorithm 
 This algorithm takes a single image and dehazes it to achieve a less foggy image
 like
-<img width="2621" height="1480" alt="image" src="https://github.com/user-attachments/assets/b2d8b847-f553-4328-97b0-6b3c1730106f" />
+<img width="262" height="148" alt="image" src="https://github.com/user-attachments/assets/b2d8b847-f553-4328-97b0-6b3c1730106f" />
 
 ### Step-1 Calculation of Transmission Map
-<img width="2036" height="1320" alt="image" src="https://github.com/user-attachments/assets/1795c88f-156a-4fdf-8150-b4b45324c70c" />
+<img width="203" height="132" alt="image" src="https://github.com/user-attachments/assets/1795c88f-156a-4fdf-8150-b4b45324c70c" />
 
 ### Step-2 Calculation of Dark Channel Prior  
-<img width="2048" height="1326" alt="image" src="https://github.com/user-attachments/assets/2c727a4b-3405-47ad-bc07-d6ac1e4fac86" />
+<img width="204" height="132" alt="image" src="https://github.com/user-attachments/assets/2c727a4b-3405-47ad-bc07-d6ac1e4fac86" />
      
 ### Step-3 Calculation of Estimate Transmission    
-<img width="1110" height="721" alt="image" src="https://github.com/user-attachments/assets/d85bda41-40a0-4c7e-ac33-b44935a9b283" />
-     
+<img width="204" height="132" alt="image" src="https://github.com/user-attachments/assets/b204dfda-8e07-4a24-94c6-e0d0a13d3805" />
+
 ### | To achieve |
-<img width="1827" height="1147" alt="image" src="https://github.com/user-attachments/assets/82015ebd-8b00-4f40-a5c7-fb76c668cb6d" />
+<img width="182" height="114" alt="image" src="https://github.com/user-attachments/assets/82015ebd-8b00-4f40-a5c7-fb76c668cb6d" />
 ### Heat Map
-<img width="3415" height="2251" alt="image" src="https://github.com/user-attachments/assets/6c795e68-7758-41d3-b0f9-5549073b5ea3" />
+<img width="111" height="72" alt="image" src="https://github.com/user-attachments/assets/d85bda41-40a0-4c7e-ac33-b44935a9b283" />
 
 
 ## Vehicle detection - Specific Model Training
@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/raghavdharwal/vehicle-orientation-dataset-part-1
 This will help our software to predict vehicles at 6FPS that will alarm the driver
 
 with detection on screen looks like this:- (Yolo PV2)
-<img width="3996" height="2251" alt="download (1)" src="https://github.com/user-attachments/assets/787d7c35-cba5-49e4-a8ba-e29533efec82" />
+<img width="399" height="225" alt="download (1)" src="https://github.com/user-attachments/assets/787d7c35-cba5-49e4-a8ba-e29533efec82" />
 
 
 
