@@ -8,8 +8,7 @@ through the haze and provide early warnings. While advanced sensors like radar a
 penetrate fog, their high cost prohibits widespread adoption in consumer vehicles. Therefore,
 developing an affordable, vision-only system that can reliably function in these conditions is a
 paramount challenge in automotive safety.
-<img width="1200" height="737" alt="image" src="https://github.com/user-attachments/assets/2abea810-5008-4010-a962-98f340ed8856" />
-
+<img width="120" height="73" alt="image" src="https://github.com/user-attachments/assets/2abea810-5008-4010-a962-98f340ed8856" />
 
 <img width="190" height="117" alt="image" src="https://github.com/user-attachments/assets/4b4be299-2cc4-474f-be53-7f4216a25f17" />
 
